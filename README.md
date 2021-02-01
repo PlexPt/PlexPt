@@ -9,6 +9,7 @@ I am plex!  I like to code in different languages.
 - JavaScript
 - Go
 - C#
+- Python
 - Shell
 
 ### 💬Contact Me

@@ -22,4 +22,4 @@ I am plex!  I like to code in different languages.
 - Flink
 
 ![plex's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt)](https://github.com/plexpt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plexpt&theme=vue-dark)](https://github.com/plexpt)

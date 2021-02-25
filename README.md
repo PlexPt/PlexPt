@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am plex!  I like to code in different languages. 
+Welcome to my page! 
 
-## 🔭I’m currently working on
+## 🔭I’m currently code with
 
 - Java
 - Kotlin

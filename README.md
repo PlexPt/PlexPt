@@ -72,42 +72,16 @@ Welcome to my page!
 
 - Spring Cloud
 - Flink
-- java
-- spring
-- web
-- mysql
-- oracle
-- linux
-- javascript
-- sql
-- hibernate
-- html
-- css
-- mybatis
 - redis
 - shell
 - python
 - hadoop
 - nosql
-- ssh
 - mongodb
-- svn
-- maven
-- nginx
-- jvm
-- socket
-- db2
 - android
-- git
-- jpa
-- html5
 - postgresql
 - freemarker
 - netty
-- hbase
-- nio
-- restful
-- zookeeper
 
 ![plex's github stats](https://github-readme-stats.vercel.app/api?username=plexpt&show_icons=true&count_private=true&theme=vue-dark)
 

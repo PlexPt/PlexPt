@@ -8,7 +8,6 @@ Welcome to my page!
 - Kotlin
 - JavaScript
 - Go
-- C#
 - Python
 - Shell
 

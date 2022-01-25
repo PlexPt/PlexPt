@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */1 * * *" # every 1 hours
 
 jobs:
   generate:
@@ -13,7 +13,7 @@ jobs:
       - name: generate github-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: Chow-Ray
+          github_user_name: plexpt
           svg_out_path: dist/github-snake.svg
       - name: push github-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0

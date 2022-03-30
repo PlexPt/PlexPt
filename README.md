@@ -76,9 +76,6 @@ In 2021, I made 8110 contributions and modified 13,000 lines of code. Check out 
 
 - Spring Cloud
 - Flink
-- redis
-- shell
-- python
 - hadoop
 - nosql
 - mongodb
